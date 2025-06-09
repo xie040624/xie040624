@@ -1,23 +1,23 @@
 <h1 align="center">Hi, I'm <span style="color:#00ADB5">Karma</span> ❤</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=00ADB5&center=true&vCenter=true&width=435&lines=Passionate+Developer;Lover+of+Clean+Code;Let's+Build+Something+Awesome!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=00ADB5&center=true&vCenter=true&width=435&lines=Supernova;I'm+Data+Scinece;" alt="Typing SVG" />
 </p>
 
 ---
 
-### 💾 About Me:
+### About Me:
 
-- 🌱 I’m currently learning: `Java`, `Python`, `SQL`
-- 🔭 I’m currently working on: `UX/UI Design`, `Data Science`
-- ⚡ Fact: I can debug better with coffee ☕️
+- I’m currently learning: `Java`, `Python`, `SQL`, `R`
+- I’m currently working on: `UX/UI Design`, `Data Science`
+- Fact: I can debug better with greentea 🍵
 
 ---
 
-### 🛠️ Languages and Tools:
+### Languages and Tools:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,kotlin,html,css,js,sqlite,mysql,git,github,vscode,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=python,java,sqlite,mysql,github,vscode,androidstudio,r" />
 </p>
 
 ---
@@ -33,17 +33,3 @@
 </p>
 
 ---
-
-### 🌐 Let's Connect:
-
-<p align="left">
-  <a href="https://linkedin.com/in/yourlinkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://your-portfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-black?style=flat&logo=firefox&logoColor=white" />
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-</p>
