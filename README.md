@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm <span style="color:#00ADB5">Karma</span> ❤</h1>
+<h1 align="center">I'm <span style="color:#00ADB5">Xieyi</span> <3</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=00ADB5&center=true&vCenter=true&width=435&lines=Supernova;I'm+Data+Scinece;" alt="Typing SVG" />
@@ -8,7 +8,7 @@
 
 ### About Me:
 
-- I’m currently learning: `Java`, `Python`, `SQL`, `R`
+- I’m currently learning: `Java`, `Python`, `SQL`, `R`, `JavaScript`, `CSS`
 - I’m currently working on: `UX/UI Design`, `Data Science`
 - Fact: I can debug better with greentea 🍵
 
