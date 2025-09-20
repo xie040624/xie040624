@@ -21,9 +21,9 @@
 ---
 
 ### Stats in the Shadows
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=9b59b6&icon_color=9b59b6&text_color=ffffff)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xie040624&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=9b59b6&icon_color=9b59b6&text_color=ffffff)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=9b59b6&text_color=ffffff)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xie040624&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=9b59b6&text_color=ffffff)  
 
 ---
 
