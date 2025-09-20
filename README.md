@@ -1,35 +1,32 @@
-<h1 align="center">I'm <span style="color:#00ADB5">Xieyi</span> <3</h1>
+# 🖤 Welcome to My World 🖤  
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=00ADB5&center=true&vCenter=true&width=435&lines=Supernova;I'm+Data+Scinece;" alt="Typing SVG" />
-</p>
+> "I don’t seek the bright side. The shadows are far more interesting."  
 
 ---
 
-### About Me:
-
-- I’m currently learning: `Java`, `Python`, `SQL`, `R`, `JavaScript`, `CSS`
-- I’m currently working on: `UX/UI Design`, `Data Science`
-- Fact: I can debug better with greentea 🍵
-
----
-
-### Languages and Tools:
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,sqlite,mysql,github,vscode,androidstudio,r" />
-</p>
+### About Me
+-  I walk between code and chaos.  
+-  Student of logic, servant of curiosity.  
+-  Currently learning: [Full Stack Developer].  
+- 🖤 Fun fact: I prefer bugs in the code over bugs in the real world.  
 
 ---
 
-### 📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="Your GitHub stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" />
-</p>
+### Tech Arsenal
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=yellow)  
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=red)  
+![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=white)  
 
 ---
+
+### Stats in the Shadows
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=9b59b6&icon_color=9b59b6&text_color=ffffff)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=9b59b6&text_color=ffffff)  
+
+---
+
+### Find Me in the Dark
+-  GitHub: [xie040624](https://github.com/xie040624)  
+-  Email: xie040624@gmail.com  
