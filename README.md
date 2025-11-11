@@ -18,9 +18,9 @@
 
 ### About Me  
 - **IT student** at *Mahidol University, Faculty of ICT*  
-- Currently learning **Web Development, Database, and Data Analytics**  
+- Currently learning **Web Application Development, Software Engineering, Computer Networks**  
 - Passionate about connecting **Technology × Business** to drive innovation  
-- Seeking internship opportunities in **Digital Consulting, Software Engineering, or Data Analytics**  
+- Seeking internship opportunities in **Cloud Computing, Software Engineering, or Cyber Security**  
 
 ---
 
@@ -56,7 +56,7 @@ Bachelor of Science in **Digital Science and Technology**
 ---
 
 ### Career Interests  
-- **Technology Consulting** (Deloitte Amplify / KPMG Cyber & Risk Internship)  
+- **Technology Consulting**
 - **Software Engineering & System Design**  
 - **Data Analytics & Digital Transformation**  
 - **Cybersecurity & IT Risk**  
