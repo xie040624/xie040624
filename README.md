@@ -1,4 +1,4 @@
-<h1 align="center">✨ Hi, I'm Xieyi (Thanakorn Kansorn) ✨</h1>
+<h1 align="center"> Hi, I'm Xieyi (Thanakorn Kansorn) </h1>
 
 <p align="center">
   <em>🎓 Second-year IT student | 💻 Full-Stack Developer | 💡 Aspiring Technology Consultant</em>
@@ -16,23 +16,22 @@
 
 ---
 
-### 🧭 About Me  
-- 👨‍💻 **IT student** at *Mahidol University, Faculty of ICT*  
-- 🌱 Currently learning **Web Development, Database, and Data Analytics**  
-- 🚀 Passionate about connecting **Technology × Business** to drive innovation  
-- 🎯 Seeking internship opportunities in **Digital Consulting, Software Engineering, or Data Analytics**  
+### About Me  
+- **IT student** at *Mahidol University, Faculty of ICT*  
+- Currently learning **Web Development, Database, and Data Analytics**  
+- Passionate about connecting **Technology × Business** to drive innovation  
+- Seeking internship opportunities in **Digital Consulting, Software Engineering, or Data Analytics**  
 
 ---
 
 ### 🎓 Education  
 **Mahidol University, Faculty of ICT**  
 Bachelor of Science in **Digital Science and Technology**  
-📅 *2023 – Present* 🎓 *Expected Graduation: 2027*  
-📊 GPA: 2.98 / 4.00  
+📅 *2024 – Present* 🎓 *Expected Graduation: 2027*
 
 ---
 
-### 💼 Highlight Project  
+### Highlight Project  
 #### 🌸 [dokmai4u – Online Flower Shop](https://github.com/xie040624)  
 > A responsive e-commerce web application built with **Node.js + Express + MySQL**, featuring product management, search, and admin dashboard.
 
@@ -41,7 +40,7 @@ Bachelor of Science in **Digital Science and Technology**
 
 ---
 
-### 🧰 Tech Arsenal  
+### Tech Arsenal  
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -56,15 +55,15 @@ Bachelor of Science in **Digital Science and Technology**
 
 ---
 
-### 💡 Career Interests  
-- 🌐 **Technology Consulting** (Deloitte Amplify / KPMG Cyber & Risk Internship)  
-- ⚙️ **Software Engineering & System Design**  
-- 📈 **Data Analytics & Digital Transformation**  
-- 🔐 **Cybersecurity & IT Risk**  
+### Career Interests  
+- **Technology Consulting** (Deloitte Amplify / KPMG Cyber & Risk Internship)  
+- **Software Engineering & System Design**  
+- **Data Analytics & Digital Transformation**  
+- **Cybersecurity & IT Risk**  
 
 ---
 
-### 📊 GitHub Analytics  
+### GitHub Analytics  
 
 <p align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=xie040624&show_icons=true&theme=tokyonight&hide_border=true&bg_color=ffffff&title_color=000&icon_color=000&text_color=000"/>
@@ -73,7 +72,7 @@ Bachelor of Science in **Digital Science and Technology**
 
 ---
 
-### 🌐 Connect with Me  
+### Connect with Me  
 📧 **Email:** [thanakorn.kar@student.mahidol.ac.th](mailto:thanakorn.kar@student.mahidol.ac.th)  
 💻 **GitHub:** [xie040624](https://github.com/xie040624)  
 📍 **Location:** Salaya, Nakhon Pathom, Thailand  
