@@ -1,14 +1,11 @@
-# 🖤 Welcome to My World 🖤  
+# Hi am Xieyi
 
-> "I don’t seek the bright side. The shadows are far more interesting."  
+> "Second-year IT student."  
 
 ---
 
-### About Me
--  I walk between code and chaos.  
--  Student of logic, servant of curiosity.  
--  Currently learning: [Full Stack Developer].  
-- 🖤 Fun fact: I prefer bugs in the code over bugs in the real world.  
+### Education
+-  Mahidol University, Faculty of ICT - Bachelor of Science in Digital Science and Technology.
 
 ---
 
