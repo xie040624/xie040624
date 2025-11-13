@@ -32,7 +32,7 @@ Bachelor of Science in **Digital Science and Technology**
 ---
 
 ### Highlight Project  
-#### 🌸 [dokmai4u – Online Flower Shop](https://github.com/xie040624)  
+#### 🌸 [dokmai4u – Online Flower Shop](https://github.com/xie040624/dokmai4u)  
 > A responsive e-commerce web application built with **Node.js + Express + MySQL**, featuring product management, search, and admin dashboard.
 
 **Tech Stack:**  
