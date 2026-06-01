@@ -1,6 +1,6 @@
 <div align="center">
 
-# Xieyi · Thanakorn Kansorn
+# lawahctahc · Thanakorn Kansorn
 
 **Software Engineer** · **Product Engineer** · **IT Student**
 
@@ -16,7 +16,7 @@
 
 Third-year **Information and Communication Technology** student at Mahidol University.
 
-Focused on **Mobile Development**, **Web Development**, and **Software Engineering** — with a passion for building user-centric products and scalable systems.
+Focused on **Software Engineering**, **Web Development**, and **Mobile Development** — with a passion for building user-centric products and scalable systems.
 
 Open to internship opportunities in Software Engineering, Mobile Development, or Full-Stack Development.
 
@@ -28,13 +28,13 @@ Open to internship opportunities in Software Engineering, Mobile Development, or
 
 A cross-platform mobile application facilitating a second-hand clothing marketplace. Focused on sustainability and seamless user experience.
 
-`Flutter` `Dart` `Supabase` `Google Auth` `Git`
+`Flutter` `Dart` `Supabase` `Git`
 
 ### [dokmai4u — Online Flower Shop](https://github.com/xie040624/dokmai4u)
 
 A full-stack e-commerce web app with product management, search functionality, and an admin dashboard.
 
-`JavaScript` `Node.js` `Express` `MySQL` `Bootstrap` `Git`
+`JavaScript` `Node.js` `Express` `MySQL` `Git`
 
 ---
 
