@@ -65,17 +65,6 @@ A full-stack e-commerce web app with product management, search functionality, a
 
 ---
 
-## Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xie040624&show_icons=true&hide_border=true&bg_color=ffffff&title_color=000&icon_color=000&text_color=555&hide_rank=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xie040624&layout=compact&hide_border=true&bg_color=ffffff&title_color=000&text_color=555)
-
-</div>
-
----
-
 <div align="center">
   <sub>Turning code into impact — bridging technology and business through innovation.</sub>
 </div>
