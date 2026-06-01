@@ -14,7 +14,7 @@
 
 ## About
 
-Second-year **Information and Communication Technology** student at Mahidol University.
+Third-year **Information and Communication Technology** student at Mahidol University.
 
 Focused on **Mobile Development**, **Web Development**, and **Software Engineering** — with a passion for building user-centric products and scalable systems.
 
@@ -59,10 +59,9 @@ A full-stack e-commerce web app with product management, search functionality, a
 
 ## Interests
 
-- Technology Consulting
+- Product Engineer
 - Software Engineering & System Design
-- Data Analytics & Digital Transformation
-- Cybersecurity & IT Risk
+- Ai & Automation
 
 ---
 
