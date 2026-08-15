@@ -1,70 +1,73 @@
-<div align="center">
+# Hi, I'm Thanakorn Kansorn 👋
 
-# lawahctahc · Thanakorn Kansorn
+**Student with actual data evaluation experience.**
 
-**Software Engineer** · **Product Engineer** · **IT Student**
-
-[![Email](https://img.shields.io/badge/Email-thanakorn.kar%40student.mahidol.ac.th-000?style=flat-square&logo=gmail&logoColor=white)](mailto:thanakorn.kar@student.mahidol.ac.th)
-[![GitHub](https://img.shields.io/badge/GitHub-xie040624-000?style=flat-square&logo=github)](https://github.com/xie040624)
-![Location](https://img.shields.io/badge/Salaya,_Thailand-000?style=flat-square&logo=googlemaps&logoColor=white)
-
-</div>
+📍 Bangkok, Thailand
+📧 xie040624@gmail.com
+📱 +6690-799-3863
 
 ---
 
-## About
+## 🎓 Education
 
-Third-year **Information and Communication Technology** student at Mahidol University.
-
-Focused on **Software Engineering**, **Web Development**, and **Mobile Development** — with a passion for building user-centric products and scalable systems.
-
-Open to internship opportunities in Software Engineering, Mobile Development, or Full-Stack Development.
+**Mahidol University** — B.Sc. in Digital Science and Technology
+2024 – Current
 
 ---
 
-## Featured Projects
+## 🧑‍💻 About Me
 
-### [Rewear — Sustainable Fashion Marketplace](https://github.com/xie040624/Portfolio)
+Computer Science student and native Thai speaker with hands-on experience in data collection, data evaluation, software quality assurance, and analytical projects. Experienced in systematically reviewing data, identifying inconsistencies and edge cases, and following structured evaluation criteria. Strong attention to detail with the ability to understand and follow English instructions.
 
-A cross-platform mobile application facilitating a second-hand clothing marketplace. Focused on sustainability and seamless user experience.
-
-`Flutter` `Dart` `Supabase` `Git`
-
-### [dokmai4u — Online Flower Shop](https://github.com/xie040624/dokmai4u)
-
-A full-stack e-commerce web app with product management, search functionality, and an admin dashboard.
-
-`JavaScript` `Node.js` `Express` `MySQL` `Git`
+Interested in contributing to AI model improvement through speech evaluation, data annotation, and quality assurance — with a broader focus on full-stack development and LLM/AI engineering.
 
 ---
 
-## Stack
+## 💼 Work Experience
 
-<div align="center">
+**AI Engineer — Prepare Data for TTS and ASR Team**
+*BOTNOI Group | June – July 2026*
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=flat-square&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005E87?style=flat-square&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-</div>
+- Performed data annotation, labeling, and quality assurance to maintain dataset accuracy and consistency.
+- Collected, cleaned, organized, and analyzed data for AI and machine learning workflows.
 
 ---
 
-## Interests
+## 🚀 Projects
 
-- Product Engineer
-- Software Engineering & System Design
-- Ai & Automation
+### 📊 MacBook Market Tracker v2
+Python + SQLite scraper that collects and structures real-world Facebook Marketplace listings for analysis of MacBook pricing and market trends.
+`Python` `SQLite`
+
+### 🤖 Thai Chatbot Ensemble Classifier
+Upgraded a Thai-language chatbot from a basic Naive Bayes classifier to a weighted soft-voting ensemble (LinearSVC + Naive Bayes), with confidence thresholding and keyword fallback.
+`Python` `NLP` `scikit-learn`
+
+### 📈 MQL5 Expert Advisor
+Production-grade Expert Advisor for MetaTrader 5 implementing ICT Smart Money Concepts, with a 13-file modular architecture, non-repainting pivot detection, dynamic lot sizing, and multi-timeframe confirmation (H4/H1/M15).
+`MQL5` `Algorithmic Trading`
+
+### 🚂 Mini Railway
+Self-hosted, Railway.app-inspired deployment platform delivered as a complete monorepo MVP.
+`Next.js 15` `Express` `PostgreSQL` `Redis/BullMQ` `Docker` `Traefik`
+
+### 🗣️ English Conversation Practice Platform
+Scenario-based English conversation practice platform for Thai learners (e.g., job interview prep), built around a voice pipeline (STT/LLM/TTS).
+`STT` `LLM` `TTS`
 
 ---
 
-<div align="center">
-  <sub>Turning code into impact — bridging technology and business through innovation.</sub>
-</div>
+## 🛠️ Skills
+
+**Languages:** Thai (Native) · English (Working Proficiency)
+**Programming:** Python · SQL / SQLite
+**Tools:** Git / GitHub
+**Focus Areas:** Data Annotation & Labeling · Data Collection & Quality Checking · Data Cleaning & Validation · Analytical Thinking
+
+---
+
+## 📫 Contact
+
+- Email: xie040624@gmail.com
+- Phone: +6690-799-3863
+- Location: Bangkok, Thailand
